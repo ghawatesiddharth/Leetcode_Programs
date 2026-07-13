@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
