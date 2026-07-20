@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0704-binary-search](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0704-binary-search) |
+| [1260-shift-2d-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
