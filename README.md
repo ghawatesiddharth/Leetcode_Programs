@@ -125,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
