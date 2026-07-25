@@ -1,16 +1,23 @@
 class Solution {
     public int maxProduct(int n) {
-        int first = 0,second = 0;
-        while (n > 0) {
-            int x = n % 10;
-            if (x > first) {
-                second = first;
-                first = x;
-            } else if (x > second) {
-                second = x;
-            }
-            n /= 10;
+        if(n < 10)return n;
+        List<Integer> list = new ArrayList<>();
+        int temp = n, firstmax = 0, secondmax = 0;
+
+        while(temp > 0){
+            int rem = temp % 10;
+            list.add(rem);
+            temp /= 10;
         }
-        return first * second;
+        for(int num : list){
+            if(num > firstmax){
+                secondmax = firstmax;
+                firstmax = num;
+            }
+            else if(num > secondmax){
+                secondmax = num;
+            }
+        }
+        return firstmax * secondmax;
     }
 }
