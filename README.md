@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
