@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0316-remove-duplicate-letters) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2490-circular-sentence](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2490-circular-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
