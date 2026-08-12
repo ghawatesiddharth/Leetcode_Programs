@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
 | [1331-rank-transform-of-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
