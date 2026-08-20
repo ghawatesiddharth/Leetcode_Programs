@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1386-cinema-seat-allocation) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
