@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0137-single-number-ii) |
 | [0496-next-greater-element-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0137-single-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3513-number-of-unique-xor-triplets-i) |
