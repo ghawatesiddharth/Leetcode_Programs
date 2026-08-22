@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0137-single-number-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1140-stone-game-ii) |
