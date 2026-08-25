@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0316-remove-duplicate-letters) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
+| [0796-rotate-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1927-sum-game) |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2029-stone-game-ix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
