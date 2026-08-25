@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0316-remove-duplicate-letters) |
+| [0344-reverse-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3794-reverse-string-prefix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3794-reverse-string-prefix) |
