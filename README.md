@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1140-stone-game-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0496-next-greater-element-i) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0056-merge-intervals) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
