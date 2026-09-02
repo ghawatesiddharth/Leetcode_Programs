@@ -347,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
