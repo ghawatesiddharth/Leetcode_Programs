@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1331-rank-transform-of-an-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
