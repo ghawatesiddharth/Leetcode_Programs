@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0118-pascals-triangle) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0290-word-pattern) |
