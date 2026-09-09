@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0500-keyboard-row) |
 | [1331-rank-transform-of-an-array](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1331-rank-transform-of-an-array) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
