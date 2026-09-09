@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0496-next-greater-element-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1288-remove-covered-intervals) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0217-contains-duplicate) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -378,8 +382,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0169-majority-element) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
