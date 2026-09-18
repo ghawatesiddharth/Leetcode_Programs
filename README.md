@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0877-stone-game) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghawatesiddharth/Leetcode_Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
